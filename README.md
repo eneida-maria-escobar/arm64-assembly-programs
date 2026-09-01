@@ -36,4 +36,4 @@ On an x86-64 machine, use an AArch64 cross-compiler and QEMU or an ARM64 virtual
 
 ## Academic context
 
-The source files are the student's submitted work, reformatted only to improve readability. Assignment specifications and instructor-provided test materials are not included.
+The repository preserves the submitted algorithms while improving label names and spacing and correcting the calculator's operator buffer size for safe null termination. Assignment specifications and instructor-provided test materials are not included.
